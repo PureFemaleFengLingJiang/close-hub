@@ -1,0 +1,6 @@
+{
+  "number": 5,
+  "state": "CLOSED",
+  "assignees": [{"login": "ghost"}],
+  "labels": []
+}
