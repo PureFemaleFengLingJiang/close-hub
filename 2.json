@@ -1,0 +1,6 @@
+{
+  "number": 4,
+  "state": "OPEN",
+  "assignees": [{"login": "mcpbot"}],
+  "labels": ["needs-review"]
+}
